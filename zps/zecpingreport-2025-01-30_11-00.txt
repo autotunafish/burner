@@ -1,0 +1,14 @@
+Thu Jan 30 11:00:01 AM CST 2025
+OK (253.43ms): height=2804601 server=zec.rocks:443 lwd=v0.4.17 zcd=/Zebra:2.1.0/ ipv=ipv4 ip=137.66.62.60
+OK (259.50ms): height=2804601 server=na.zec.rocks:443 lwd=v0.4.17 zcd=/Zebra:2.1.0/ ipv=ipv4 ip=66.241.124.200
+OK (496.12ms): height=2804601 server=eu.zec.rocks:443 lwd=v0.4.17 zcd=/Zebra:2.1.0/ ipv=ipv4 ip=66.241.125.169
+OK (511.96ms): height=2804601 server=sa.zec.rocks:443 lwd=v0.4.17 zcd=/Zebra:2.1.0/ ipv=ipv4 ip=66.241.124.116
+OK (662.91ms): height=2804601 server=ap.zec.rocks:443 lwd=v0.4.17 zcd=/Zebra:2.1.0/ ipv=ipv4 ip=66.241.124.66
+OK (597.37ms): height=2804601 server=lwd8.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=95.164.69.32
+OK (598.37ms): height=2804601 server=lwd7.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=185.234.64.6
+OK (616.71ms): height=2804601 server=lwd1.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=45.8.146.57
+OK (668.32ms): height=2804601 server=lwd4.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=146.19.106.109
+OK (767.46ms): height=2804601 server=lwd5.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=185.242.87.141
+OK (937.95ms): height=2804601 server=lwd6.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=94.131.101.201
+OK (1150.72ms): height=2804601 server=lwd3.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=45.150.65.103
+OK (2012.73ms): height=2804601 server=lwd2.zcash-infra.com:9067 lwd=v0.4.17-spam zcd=/Zebra:2.1.0/ ipv=ipv4 ip=185.74.222.229
